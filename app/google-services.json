@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63499155178",
+    "project_id": "nxf-cd",
+    "storage_bucket": "nxf-cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63499155178:android:77738beefe9c1d27dbc993",
+        "android_client_info": {
+          "package_name": "com.nx.nxfcd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63499155178-p77e06r0nurk7e9s0ue91dm6al35gc9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqdc2msZNIu8RsDaWvAiWdIqCGNGEEwt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63499155178-p77e06r0nurk7e9s0ue91dm6al35gc9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
